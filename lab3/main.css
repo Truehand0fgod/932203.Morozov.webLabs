@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  background-color: green;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+.content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+}
+nav {
+  width: 150px;
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+.text {
+  width: 500px;
+  padding: 20px;
+}
+footer {
+  position: static;
+  bottom: 0;
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+.navText {
+  margin-bottom: 15px;
+  padding-left: 15px;
+}
+.navText:hover {
+  background-color: green;
+}
+::selection {
+  background-color: green;
+  color: white;
+}
