@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin: 5px;
+  background-color: aqua;
+  border: 1px solid green;
+  display: flex;
+}
+
+.list {
+  width: 100%;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 3px;
+  padding-right: 10px;
+  background-color: bisque;
+  height: fit-content;
+}
+
+.text {
+  background-color: lightgray;
+}
+
+img {
+  float: right;
+  display: block;
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* @media screen and (max-width: 500px) {
+  .content {
+    display: block !important;
+  }
+  .list {
+    width: 150px;
+    height: 55px;
+  }
+  .text {
+    width: 400px;
+    margin: 0;
+  }
+} */

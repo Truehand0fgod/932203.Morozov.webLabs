@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px) {
+  .content {
+    display: block !important;
+  }
+  .list {
+    width: 150px;
+    height: 55px;
+  }
+  .text {
+    width: 400px;
+    margin: 0 !important;
+  }
+}
