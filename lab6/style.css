@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  height: 100vh;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.btnRow {
+  display: flex;
+}
+.btn {
+  padding: 10px;
+  background-color: red;
+  border: 2px solid black;
+  color: white;
+}
+#btnL,
+#btnM,
+#btnR {
+  width: 33%;
+}
+.imgRow {
+  display: flex;
+  height: 250px;
+}
+
+img {
+  padding: 10px;
+  width: 90%;
+  max-width: 500px;
+  height: 90%;
+  object-fit: fill;
+}
+#imgR {
+  float: right;
+}
+#blockL {
+  background-color: blue;
+}
+#blockR {
+  background-color: green;
+}
+
+.blockL,
+.blockR {
+  min-width: 30px;
+}
