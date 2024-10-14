@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  position: relative;
+}
+.shape {
+  position: absolute;
+  transition: background-color 0.2s;
+  border: 1px solid black;
+}
+.inputBlock {
+  padding: 5px;
+}
+.circle {
+  border-radius: 50%;
+}
+.selected {
+  background-color: yellow !important;
+}
+
+.selectedTr {
+  background-color: white !important;
+  border-bottom: 100px solid blue;
+}
+
+.triangle {
+  width: 0 !important;
+  height: 0 !important;
+  border-top: none !important;
+}
