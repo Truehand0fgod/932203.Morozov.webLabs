@@ -1,0 +1,56 @@
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.staticwebassets.runtime.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.exe
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.deps.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.dll
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\bin\Debug\net6.0\lab11.pdb
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\scopedcss\bundle\lab11.styles.css
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\scopedcss\projectbundle\lab11.bundle.scp.css
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.dll
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\refint\lab11.dll
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.pdb
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+C:\Users\admin\Desktop\Лабораторные работы\Семестр 5\Web-технологии\lab11\obj\Debug\net6.0\ref\lab11.dll
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\appsettings.Development.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\appsettings.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.staticwebassets.runtime.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.exe
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.deps.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.runtimeconfig.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.dll
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\bin\Debug\net6.0\lab11.pdb
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.MvcApplicationPartsAssemblyInfo.cache
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cache
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cs
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets.build.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets.development.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets\msbuild.lab11.Microsoft.AspNetCore.StaticWebAssets.props
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets\msbuild.build.lab11.props
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab11.props
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab11.props
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\staticwebassets.pack.json
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\scopedcss\bundle\lab11.styles.css
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\scopedcss\projectbundle\lab11.bundle.scp.css
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.dll
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\refint\lab11.dll
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.pdb
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+F:\web_labs\lab11\932205.krenev.mikhail.lab11-main\obj\Debug\net6.0\ref\lab11.dll
