@@ -1,8 +1,10 @@
+using lab11.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddScoped<IGetData, GetDataService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
